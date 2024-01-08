@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Lucas 👋
 
 
-<p><strong>Olá sou João Lucas, desenvolvedor Back-end</strong></p>
+<p><strong>Desenvolvedor Back-end</strong></p>
 
 
 <div align="left">
