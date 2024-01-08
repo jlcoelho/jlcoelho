@@ -9,7 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+    
+<br/>
 <div>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
