@@ -1,8 +1,7 @@
 ### Olá! Eu sou o João Lucas 👋
 
 
-- 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Typescript | NodeJS
+<p><strong>Olá sou João Lucas, desenvolvedor Back-end</strong></p>
 
 
 <div align="left">
